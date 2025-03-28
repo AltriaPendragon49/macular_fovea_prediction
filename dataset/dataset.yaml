@@ -1,0 +1,7 @@
+
+path: d:\for future\vscode-py\MCtask\MCtask_1\dataset
+train: images/train
+val: images/train  # 使用相同数据作为验证集
+nc: 1  # 只有一个类别(Fovea)
+names: ['Fovea']
+        
